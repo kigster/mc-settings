@@ -4,7 +4,7 @@
 :sectnums:
 
 
-image:https://github.com/kigster/mc-settings/workflows/Ruby/badge.svg[Ruby,link=https://github.com/kigster/kitchen/actions?query=workflow%3ARuby]
+image:https://github.com/kigster/mc-settings/workflows/Ruby/badge.svg[Ruby,link=https://github.com/kigster/mc-settings/actions?query=workflow%3ARuby]
 
 == Description
 

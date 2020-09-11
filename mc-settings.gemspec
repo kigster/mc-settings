@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   s.email                     = %w[softr8@gmail.com kigster@gmail.com]
   s.files                     = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   s.extra_rdoc_files          = %w[LICENSE.txt README.adoc]
-  s.homepage                  = 'https://github.com/modcloth/mc-settings'
+  s.homepage                  = 'https://github.com/kigster/mc-settings'
   s.licenses                  = ["MIT"]
   s.require_paths             = ["lib"]
   s.test_files                = %w[spec/mc_settings_spec.rb spec/spec_helper.rb spec/support/settings_helper.rb]
